@@ -1,5 +1,5 @@
 {
-  "name": "code",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.15.3"
+  },
+  "dependencies": {
+    "easypost": "^0.1.1",
+    "mongodb": "^2.2.30",
+    "node-easypost": "^3.0.0-rc.21"
   }
 }
