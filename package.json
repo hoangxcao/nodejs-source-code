@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "pm2": "^2.5.0"
   },
   "dependencies": {
     "easypost": "^0.1.1",
